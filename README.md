@@ -13,5 +13,5 @@ En este repositorio enseñamos a crear un chatbot con AI que puede enseñar ingl
 - Huggingface (SeamlessM4T v2)
 
 ## Notebook
-
+🔽🔽🔽🔽🔽🔽🔽🔽
 [Chatbot con AI - Notebook](chatbot_seamless.ipynb)
