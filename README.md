@@ -16,3 +16,8 @@ En este repositorio enseñamos a crear un chatbot con AI que puede enseñar ingl
 🔽🔽🔽🔽🔽🔽🔽🔽 
 
 [Chatbot con AI - Notebook](chatbot_seamless.ipynb)
+
+## Youtube 📺
+🔽🔽🔽🔽🔽🔽🔽🔽 
+
+https://www.youtube.com/watch?v=JCQ51kzgNbA&t=21s
